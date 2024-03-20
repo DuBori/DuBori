@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-<a href="[https://www.notion.so/21e878455b4942acabcbdc79d5c06c47?v=16857cdcfb0d4ae3a83fd9e577f4a5c7&pvs=12](https://www.notion.so/Park-Jeong-Hyeon-0772b4124b154714b40d51e40d163c22)" target="_blank"><img src="https://img.shields.io/badge/notion?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://www.notion.so/Park-Jeong-Hyeon-0772b4124b154714b40d51e40d163c22" target="_blank">
+
+  <img src="https://img.shields.io/badge/notion?style=flat-square&logo=notion&logoColor=black"/></a>
 
 ![DuBori's github stats](https://github-readme-stats.vercel.app/api?username=DuBoriID&show_icons=true)
 [![DuBori's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DuBori&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/DuBori)
