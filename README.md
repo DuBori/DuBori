@@ -5,7 +5,7 @@
 
   <img src="https://img.shields.io/badge/notion?style=flat-square&logo=notion&logoColor=black"/></a>
 
-![DuBori's github stats](https://github-readme-stats.vercel.app/api?username=DuBoriID&show_icons=true)
+![DuBori's github stats](https://github-readme-stats.vercel.app/api?username=DuBori&show_icons=true)
 [![DuBori's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DuBori&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/DuBori)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DuBori)](https://github.com/ryo-ma/github-profile-trophy)
